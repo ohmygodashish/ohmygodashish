@@ -13,4 +13,4 @@
 
 - ⚡ Fun fact **I also like to make music and click photos**
 
-[![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JustSurWHYving&theme=nord)](https://github.com/JustSurWHYving/github-readme-activity-graph)
+[![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JustSurWHYving&theme=tokyo-night)](https://github.com/JustSurWHYving/github-readme-activity-graph)
