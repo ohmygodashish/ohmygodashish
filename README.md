@@ -12,3 +12,5 @@
 - 💬 Ask me about **Python, .NET, System Design**
 
 - ⚡ Fun fact **I also like to make music and click photos**
+
+-  [![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JustSurWHYving&theme=catppuccin)](https://github.com/JustSurWHYving/github-readme-activity-graph)
