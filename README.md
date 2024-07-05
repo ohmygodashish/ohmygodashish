@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I also like to make music and click photos**
 
-[![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JustSurWHYving&theme=tokyo-night)](https://github.com/JustSurWHYving/github-readme-activity-graph)
+[![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JustSurWHYving&theme=tokyo-night&hide_border=true)](https://github.com/JustSurWHYving/github-readme-activity-graph)
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=JustSurWHYving&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="250" alt="stats graph"  />
