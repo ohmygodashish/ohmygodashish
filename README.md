@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=justsurwhyving&label=Profile%20views&color=0e75b6&style=flat" alt="justsurwhyving" /> </p>
 
-- 🔭 I’m currently on a break
+- 🔭 I’m currently working on a [PDF Viewer in Rust](https://github.com/JustSurWHYving/pdf-viewer)
 
 - 🌱 I’m currently learning **Rust**
 
-- 👨‍💻 All of my projects are available at [https://github.com/JustSurWHYving](https://github.com/JustSurWHYving)
+- 👨‍💻 All of my projects are available [here](https://github.com/JustSurWHYving)
 
 - 💬 Ask me about **Python, .NET, System Design**
 
