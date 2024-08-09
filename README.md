@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Rust**
 
-- 👨‍💻 All of my projects are available [here](https://github.com/JustSurWHYving)
+- 👨‍💻 All of my projects are available [here](https://github.com/JustSurWHYving?tab=repositories)
 
 - 💬 Ask me about **Python, .NET, System Design**
 
