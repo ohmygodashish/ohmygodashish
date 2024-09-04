@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=justsurwhyving&label=Profile%20views&color=0e75b6&style=flat" alt="justsurwhyving" /> </p>
 
-- 🔭 I’m currently working on a [PDF Viewer in Rust](https://github.com/JustSurWHYving/pdf-viewer)
+- 🔭 I’m currently on a break.
 
 - 🌱 I’m currently learning **Rust**
 
