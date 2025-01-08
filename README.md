@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=justsurwhyving&label=Profile%20views&color=0e75b6&style=flat" alt="justsurwhyving" /> </p>
 
-- 🔭 I’m currently on a break.
+- 🔭 I’m currently writing a research paper.
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning *Nothing Really*.
 
 - 👨‍💻 All of my projects are available [here](https://github.com/JustSurWHYving?tab=repositories)
 
