@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=justsurwhyving&label=Profile%20views&color=0e75b6&style=flat" alt="justsurwhyving" /> </p>
 
-- 🔭 I’m currently practicing DSA (Yes, its that time lmao).
+- 🔭 I’m currently practicing DSA (yes, its about time).
 
-- 🌱 I’m currently learning "Web Development" (*Once Again*).
+- 🌱 I’m currently learning "Web Development" (*once again*).
 
 - 👨‍💻 All of my projects are available [here](https://github.com/JustSurWHYving?tab=repositories)
 
