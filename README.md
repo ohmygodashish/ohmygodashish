@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=justsurwhyving&label=Profile%20views&color=0e75b6&style=flat" alt="justsurwhyving" /> </p>
 
-- 🔭 I’m currently practicing DSA (yes, its about time).
+- 🔭 I’m currently practicing "DSA" (yes, its about time).
 
 - 🌱 I’m currently learning "Web Development" (*once again*).
 
