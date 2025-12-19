@@ -12,4 +12,4 @@
 
 - Fun fact **I also like to make music and click photos**
 
-[![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ohmygodashish&theme=tokyo-night&hide_border=true)](https://github.com/JustSurWHYving/github-readme-activity-graph)
+[![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ohmygodashish&theme=tokyo-night&hide_border=true)](https://github.com/ohmygodashish/github-readme-activity-graph)
