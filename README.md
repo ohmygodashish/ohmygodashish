@@ -2,13 +2,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ohmygodashish&label=Profile%20views&color=0e75b6&style=flat" alt="ohmygodashish" /> </p>
 
-- I’m currently practicing "DSA" (yes, its about time).
-
-- I’m currently learning "Web Development" (*once again*).
+- I’m currently on a break.
 
 - All of my projects are available [here](https://github.com/ohmygodashish?tab=repositories)
 
-- Ask me about **Python, Deep Learning, .NET, System Design**
+- Ask me about **Python, Rust, Web3, Deep Learning, .NET**
 
 - Fun fact **I also like to make music and click photos**
 
