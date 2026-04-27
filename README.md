@@ -8,7 +8,7 @@
 
 - Fun fact **I also like to make music and click photos**
 
-<h2 align="left">Visitor Count</h2>
+### Visitor Count
 ![Visitor Count](https://count.getloli.com/get/@ohmygodashish?theme=rule34)
 
-[![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ohmygodashish&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ohmygodashish&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
