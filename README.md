@@ -1,6 +1,6 @@
 <h1 align="center">Hi!, I'm Ashish Prajapati</h1>
 
-- I’m currently building [Kommit](https://kommit-cli.vercel.app/).
+- I’m currently building [Kommit](https://kommit-cli.vercel.app/)
 
 - All of my projects are available [here](https://github.com/ohmygodashish?tab=repositories)
 
